@@ -9,7 +9,7 @@
 - 🔭 Je travaille en tant qu'**Administrateur Systèmes & Réseaux**.
 - 🌱 J'approfondis actuellement mes connaissances en **Docker, Arch Linux, et VMware**.
 - 💪 Compétences avancées en **VMware, Debian, ArchLinux, Veeam, Docker, Powershell, Windows Server**.
-- 📫 Me joindre : **contact.quentin@baudry.cc**
+- 📫 Me joindre : **contact@azurich.fr**
 
 ### 🤝 Mes passions :
 
